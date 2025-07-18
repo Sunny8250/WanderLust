@@ -93,6 +93,10 @@ body {
   background-color: white;
 }
 
+.card {
+  margin-right: 1rem;
+}
+
 /* New Page */
 .add-btn {
   background-color: #fe424d !important;
