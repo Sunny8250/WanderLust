@@ -1,3 +1,6 @@
-To run project --> node app.js
+To run project --> node app.js / nodemon app.js
 
-localhost:808
+localhost:8080
+
+
+live url - https://wanderlust-sz74.onrender.com/listings
